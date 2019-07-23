@@ -2,7 +2,7 @@
    The project is about Robomaster 2019 Referee System Serial Port Protocol and  the corresponding sample program. Referee system wiil output data through user serial port.
    ### doc
      en：[Referee System Serial Port Protocol Appendix V2.0.pdf](doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf)
-   ### main point
+   ### major update points
    2019.7.11
 
   1. Modify robot survival situation to robot HP
