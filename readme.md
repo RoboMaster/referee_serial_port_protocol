@@ -1,9 +1,13 @@
 ## 概述
 English：[readme.md](doc/en/readme.md)
+
    本工程主要更新Robomaster2019裁判系统串口协议，并配套对应的示例程序。Robomaster2019裁判系统通过电源模块的user串口对外输出数据，用于比赛信息的数据获取。
    ### 文档
-     中文版：[裁判系统串口协议附录 V2.0.pdf](doc/cn/裁判系统串口协议附录 V2.0.pdf)
-     英文版：[Referee System Serial Port Protocol Appendix V2.0.pdf](doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf)
+     
+   中文版：[裁判系统串口协议附录 V2.0.pdf](doc/cn/裁判系统串口协议附录 V2.0.pdf)
+     
+   英文版：[Referee System Serial Port Protocol Appendix V2.0.pdf](doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf)
+   
    ### 主要更新点
    2019.7.11
   
