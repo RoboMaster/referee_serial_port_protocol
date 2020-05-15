@@ -17,7 +17,7 @@ English：[readme.md](doc/en/readme.md)
    <a href="doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf" target="_blank">2019 Referee System Serial Port Protocol Appendix V2.0.pdf</a>
 
 
-   <a href="doc/en/2020 Referee System Serial Port Protocol Appendix V1.0.pdf" target="_blank">2020 Referee System Serial Port Protocol Appendix V1.1.pdf</a>
+   <a href="doc/en/2020 Referee System Serial Port Protocol Appendix V1.0.pdf" target="_blank">2020 Referee System Serial Port Protocol Appendix V1.0.pdf</a>
    
    
    <a href="doc/en/2020 Referee System Serial Port Protocol Appendix V1.1.pdf" target="_blank">2020 Referee System Serial Port Protocol Appendix V1.1.pdf</a>
