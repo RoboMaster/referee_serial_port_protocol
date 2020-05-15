@@ -2,7 +2,20 @@
    The project is about Robomaster 2019 Referee System Serial Port Protocol and  the corresponding sample program. Referee system wiil output data through user serial port.
    ### doc
      en：[Referee System Serial Port Protocol Appendix V2.0.pdf](doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf)
+         [2020 Referee System Serial Port Protocol Appendix V1.0.pdf](doc/en/2020 Referee System Serial Port Protocol Appendix V1.0.pdf)
+         [2020 Referee System Serial Port Protocol Appendix V1.1.pdf](doc/en/2020 Referee System Serial Port Protocol Appendix V1.1.pdf)
    ### major update points
+
+   2020.5.15
+
+   1.Added Dart Client instruction data.
+
+   2.Added Radar Station ID to ID Description.
+
+   2020.2.25
+
+   1.Initial release.
+
    2019.7.11
 
   1. Modify robot survival situation to robot HP
@@ -19,6 +32,6 @@
 
   7. Add Client custom graphic
 
-  
-   
-     
+
+
+
