@@ -4,12 +4,23 @@ English：[readme.md](doc/en/readme.md)
    本工程主要更新Robomaster2019裁判系统串口协议。Robomaster2019裁判系统通过电源模块的user串口对外输出数据，用于比赛信息的数据获取。
    ### 文档
 
-   中文版：[裁判系统串口协议附录 V2.0.pdf](doc/cn/裁判系统串口协议附录 V2.0.pdf)
-          [2020年裁判系统串口协议附录 V1.0.pdf](doc/cn/2020年裁判系统串口协议附录 V1.0.pdf)
-          [2020年裁判系统串口协议附录 V1.1.pdf](doc/cn/2020年裁判系统串口协议附录 V1.1.pdf)
-   英文版：[Referee System Serial Port Protocol Appendix V2.0.pdf](doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf)
-          [2020 Referee System Serial Port Protocol Appendix V1.0.pdf](doc/en/2020 Referee System Serial Port Protocol Appendix V1.0.pdf)
-          [2020 Referee System Serial Port Protocol Appendix V1.1.pdf](doc/en/2020 Referee System Serial Port Protocol Appendix V1.1.pdf)
+   中文版：
+   
+   <a href="doc/cn/裁判系统串口协议附录 V2.0.pdf" target="_blank">2019 裁判系统串口协议附录 V2.0.pdf</a>
+
+   <a href="doc/cn/2020年裁判系统串口协议附录 V1.0.pdf" target="_blank">2020年裁判系统串口协议附录 V1.0.pdf</a>
+
+   <a href="doc/cn/2020年裁判系统串口协议附录 V1.1.pdf" target="_blank">2020年裁判系统串口协议附录 V1.1.pdf</a>
+   
+   英文版：
+   
+   <a href="doc/en/Referee System Serial Port Protocol Appendix V2.0.pdf" target="_blank">2019 Referee System Serial Port Protocol Appendix V2.0.pdf</a>
+
+
+   <a href="doc/en/2020 Referee System Serial Port Protocol Appendix V1.0.pdf" target="_blank">2020 Referee System Serial Port Protocol Appendix V1.1.pdf</a>
+   
+   
+   <a href="doc/en/2020 Referee System Serial Port Protocol Appendix V1.1.pdf" target="_blank">2020 Referee System Serial Port Protocol Appendix V1.1.pdf</a>
 
    ### 主要更新点
 
